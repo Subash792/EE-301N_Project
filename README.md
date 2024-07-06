@@ -1,4 +1,4 @@
-# Design and implementation of an EVM
+# Design and implementation of a model of an EVM
 
 ## Table of Contents
 
